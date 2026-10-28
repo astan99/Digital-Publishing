@@ -9,7 +9,7 @@ body {
     background-color: #4c815f;
     padding: 100px 0 100px 0;
     text-align: center;
-    box-shadow: 0px 0px 5px 3px black;
+    box-shadow: 0px 0px 5px 3px black inset;
    
 }
 
