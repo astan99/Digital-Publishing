@@ -7,7 +7,7 @@ body {
     margin: 0.5in;
     height: 300px;
     background-color: #4c815f;
-    padding: 100px;
+    padding: 100px 0 100px 0;
     text-align: center;
    
 }
