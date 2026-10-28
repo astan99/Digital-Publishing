@@ -8,10 +8,8 @@ body {
     border: 5px solid aquamarine;
     height: 300px;
     background-color: darkgreen;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    padding: 100px;
+    text-align: center;
    
 }
 
