@@ -4,6 +4,8 @@ body {
 }
 
 .opaqueContainer {
+    margin: 0.5in;
+    background-color: darkgreen;
    
 }
 
