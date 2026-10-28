@@ -5,7 +5,7 @@ body {
 
 .opaqueContainer {
     margin: 0.5in;
-    border: 5px;
+    border: 5px solid aquamarine;
     height: 300px;
     background-color: darkgreen;
    
