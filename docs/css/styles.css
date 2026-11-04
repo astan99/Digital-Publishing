@@ -25,11 +25,13 @@ font-size:2.5em;
 line-height:2em;
 margin-left:0;
 text-indent:0;
+text-align: center;
 }
 
 .Author {
 font-weight:normal;
 font-size:1.5em;
+text-align: center;
 }
 
 .Body {
@@ -38,6 +40,7 @@ font-size:1.5em;
 line-height:1em;
 margin-left:0;
 text-indent:0;
+text-align: center;
 }
 
 .stanza {
@@ -46,10 +49,12 @@ font-size:1.5em;
 line-height:1em;
 margin-left:0;
 text-indent:0;
+text-align: center;
 }
 
 .p2 {
 margin-top:2em;
+text-align: center;
 }
 
 .p1 {
@@ -58,5 +63,6 @@ text-align:center;
 
 .p3 {
 margin-top:1em;
+text-align: center;
 }
 
