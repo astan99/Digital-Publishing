@@ -40,6 +40,7 @@ font-size:1.5em;
 line-height:1em;
 margin-left:0;
 text-indent:0;
+text-align: center;
 
 }
 
@@ -72,6 +73,6 @@ margin-top:1em;
 
 #poem {
 	margin: auto;
-	text-align: center;
+	text-align: left;
 }
 
