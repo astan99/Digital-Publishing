@@ -40,7 +40,7 @@ font-size:1.5em;
 line-height:1em;
 margin-left:0;
 text-indent:0;
-text-align: center;
+
 }
 
 .stanza {
@@ -49,24 +49,28 @@ font-size:1.5em;
 line-height:1em;
 margin-left:0;
 text-indent:0;
-text-align: center;
+
 
 }
 
 .p2 {
 font-family:"Goudy Old Style", serif;
 margin-top:2em;
-text-align: center;
+
 }
 
 .p1 {
 font-family:"Goudy Old Style", serif;
-text-align:center;
+
 }
 
 .p3 {
 font-family:"Goudy Old Style", serif;
 margin-top:1em;
-text-align: center;
+
+}
+
+#poem {
+	text-align: center;
 }
 
