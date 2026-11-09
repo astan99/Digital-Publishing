@@ -71,9 +71,7 @@ margin-top:1em;
 }
 
 #poem {
-	width: 11em;
 	margin: auto;
-	text-align: left;
-	border: 1px solid red;
+	text-align: center;
 }
 
